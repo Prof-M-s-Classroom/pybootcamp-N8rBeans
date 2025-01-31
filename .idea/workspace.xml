@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25a8240e-dda9-40c4-ac9a-783ea997d53b" name="Changes" comment="Submission folder and readme added">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Submissions/readme.txt" beforeDir="false" />
+    <list default="true" id="25a8240e-dda9-40c4-ac9a-783ea997d53b" name="Changes" comment="Update Commit">
+      <change beforePath="$PROJECT_DIR$/skeleton.py" beforeDir="false" afterPath="$PROJECT_DIR$/skeleton.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +40,8 @@
   </component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/profmanjupriya/PyBootcampHW.git",
-    "accountId": "e295edf7-faf7-43e7-a9fc-6b26e3f43991"
+    "url": "https://github.com/Prof-M-s-Classroom/pybootcamp-N8rBeans.git",
+    "accountId": "193660e9-9d01-4aa1-9c09-22aeebd4218c"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -54,14 +53,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.skeleton.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -102,7 +103,47 @@
       <option name="project" value="LOCAL" />
       <updated>1738049600956</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test commit">
+      <option name="closed" value="true" />
+      <created>1738358669468</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738358669468</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Test commit">
+      <option name="closed" value="true" />
+      <created>1738358738832</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738358738832</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Test commit">
+      <option name="closed" value="true" />
+      <created>1738358964075</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738358964075</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Test commit">
+      <option name="closed" value="true" />
+      <created>1738359541012</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738359541012</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update Commit">
+      <option name="closed" value="true" />
+      <created>1738360591416</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738360591416</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +161,8 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Skeleton code added" />
     <MESSAGE value="Submission folder and readme added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Submission folder and readme added" />
+    <MESSAGE value="Test commit" />
+    <MESSAGE value="Update Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Commit" />
   </component>
 </project>
