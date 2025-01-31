@@ -43,3 +43,5 @@ roster.list_crew()
 
 roster.remove_member("Alice")
 roster.list_crew()
+
+# === TEST COMPLETE ===
