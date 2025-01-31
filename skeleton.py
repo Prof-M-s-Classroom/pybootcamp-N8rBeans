@@ -23,6 +23,7 @@ class CrewRoster:
 
     def list_crew(self):
         """Prints all crew members."""
+        print("hi")
 
 
 # === TEST CODE ===
