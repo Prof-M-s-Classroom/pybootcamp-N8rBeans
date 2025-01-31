@@ -34,7 +34,7 @@ class CrewRoster:
 
 # === TEST CODE ===
 
-roster=CrewRoster() #Empty Crew roster created
+roster=CrewRoster() # Empty Crew roster created
 
 # TODO: Uncomment and implement methods
 roster.add_member("Alice", "Engineer", 5)
